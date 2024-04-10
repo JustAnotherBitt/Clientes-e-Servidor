@@ -1,5 +1,3 @@
-_readme em desenvolvimento_
-
 # Ferramentas simples de rede
 Aqui você encontra um trio: cliente_udp, cliente_tcp e servidor (esses dois últimos andam juntos). Essas são ferramentas simples e fáceis de usar e, como tudo no mundo da programação, podem ser melhoradas.
 
