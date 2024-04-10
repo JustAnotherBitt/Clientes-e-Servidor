@@ -2,7 +2,7 @@
 Aqui você encontra um trio: **cliente_udp**, **cliente_tcp** e **servidor** (esses dois últimos andam juntos). Essas são ferramentas simples e fáceis de usar e, como tudo no mundo da programação, podem ser melhoradas.
 Elas foram feitas em python, e uma biblioteca importante utilizada nos programas foi a biblioteca socket, que permitiu fazer as conexões entre cliente e servidor.
 
-> _Observação: Um soquete de rede (em inglês: network socket) é um ponto final de um fluxo de comunicação entre processos através de uma rede, e um endereço de soquete (socket address) é a combinação de um endereço de IP e um número da porta, como pode ser visto nesses programas._
+> _Observação: Um **soquete de rede** (em inglês: **network socket**) é um ponto final de um fluxo de comunicação entre processos através de uma rede, e um **endereço de soquete** (**socket address**) é a combinação de um endereço de IP e um número da porta, como pode ser visto nesses programas._
 
 ## Como cada ferramenta funciona?
 É simples! Vamos em etapas:
@@ -13,7 +13,7 @@ Antes de tudo, você deve saber rodar cada programa. Para isso, clique no ícone
 
 ## Executando o servidor:
 
-1°) execute o arquivo **servidor.py**;
+1°) execute o arquivo ***servidor.py***;
 
 2°) abra um terminal e digite o seguinte comando: ` nc 127.0.0.1 4466 ` 
 
@@ -26,7 +26,7 @@ Antes de tudo, você deve saber rodar cada programa. Para isso, clique no ícone
 
 1°) abra um terminal e digite o seguinte comando: ` nc -lvup 127.0.0.1 4466 ` 
 
-2°) execute o arquivo **cliente_udp**.
+2°) execute o arquivo ***cliente_udp***.
 
 
 ![image](https://github.com/LeRodrigues2005/clientes-e-servidor/assets/97632543/a89fa36e-04b5-4db9-850d-e34eca2bd077)
@@ -36,21 +36,21 @@ Antes de tudo, você deve saber rodar cada programa. Para isso, clique no ícone
 
 - O cliente TCP é uma aplicação que se conecta ao servidor TCP. Para fazer a conexão, seiga os seguintes passos:
 
-1°) execute o arquivo **servidor**;
+1°) execute o arquivo ***servidor***;
 
 2°) abra outro terminal e viaje até a pasta em que está localizado o programa (passo importante!!);
 
-3°) execute o programa **cliente_tcp** com o seguinte comando: ` python cliente_tcp.py ` 
+3°) execute o programa ***cliente_tcp*** com o seguinte comando: ` python cliente_tcp.py ` 
 
 ![image](https://github.com/LeRodrigues2005/clientes-e-servidor/assets/97632543/248c64ef-89d5-4980-83ee-1ffe5db0c4da)
 
-- Será criado um arquivo chamado _output.txt_, que conterá o que foi inserido no ` client.send ` em **cliente_tcp**. 
+- Será criado um arquivo chamado _output.txt_, que conterá o que foi inserido no ` client.send ` em ***cliente_tcp***. 
 
 
 
 
 ### Fim do README...
 
-- Me siga no Linkedin: https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+- Me siga no **Linkedin:** https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
 
