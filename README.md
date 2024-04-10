@@ -14,11 +14,10 @@ Antes de tudo, você deve saber rodar cada programa. Para isso, clique no ícone
 
 2°) abra um terminal e digite o seguinte comando: ` nc 127.0.0.1 4466 ` 
 
-- O que for escrito no terminal será salvo no arquivo _output.txt_.
-
 
 ![image](https://github.com/LeRodrigues2005/clientes-e-servidor/assets/97632543/d315f88f-6ac4-4f08-8ea2-bef7594f1ec4)
 
+- O que for escrito no terminal será salvo no arquivo _output.txt_.
 
 ## Executando o cliente_udp:
 
