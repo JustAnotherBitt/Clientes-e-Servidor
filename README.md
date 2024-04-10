@@ -2,7 +2,7 @@
 Aqui você encontra um trio: **cliente_udp**, **cliente_tcp** e **servidor** (esses dois últimos andam juntos). Essas são ferramentas simples e fáceis de usar e, como tudo no mundo da programação, podem ser melhoradas.
 Elas foram feitas em python, e uma biblioteca importante utilizada nos programas foi a biblioteca socket, que permitiu fazer as conexões entre cliente e servidor.
 
-> Um soquete de rede (em inglês: network socket) é um ponto final de um fluxo de comunicação entre processos através de uma rede, e um endereço de soquete (socket address) é a combinação de um endereço de IP e um número da porta, como pode ser visto nesses programas.
+> _Observação: Um soquete de rede (em inglês: network socket) é um ponto final de um fluxo de comunicação entre processos através de uma rede, e um endereço de soquete (socket address) é a combinação de um endereço de IP e um número da porta, como pode ser visto nesses programas._
 
 ## Como cada ferramenta funciona?
 É simples! Vamos em etapas:
