@@ -1,7 +1,7 @@
 # Ferramentas simples de rede
 Aqui você encontra um trio: **cliente_udp**, **cliente_tcp** e **servidor** (esses dois últimos andam juntos). Essas são ferramentas simples e fáceis de usar e, como tudo no mundo da programação, podem ser melhoradas.
 
-# Como cada uma funciona?
+## Como cada uma funciona?
 É simples! Vamos em etapas:
 
 Antes de tudo, você deve saber rodar cada programa. Para isso, clique no ícone de _start_ ou _play_, descrito como ***run***, na parte superior do PyCharm (a IDE que usei para fazer os programas).
@@ -48,6 +48,7 @@ Será criado um arquivo chamado _output.txt_, que conterá o que foi inserido no
 
 
 ### Fim do README...
-Me siga no Linkedin: 
+
+- Me siga no Linkedin: https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
 
