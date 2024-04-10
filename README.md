@@ -1,5 +1,5 @@
 # Ferramentas simples de rede
-Aqui você encontra um trio: cliente_udp, cliente_tcp e servidor (esses dois últimos andam juntos). Essas são ferramentas simples e fáceis de usar e, como tudo no mundo da programação, podem ser melhoradas.
+Aqui você encontra um trio: **cliente_udp**, **cliente_tcp** e **servidor** (esses dois últimos andam juntos). Essas são ferramentas simples e fáceis de usar e, como tudo no mundo da programação, podem ser melhoradas.
 
 # Como cada uma funciona?
 É simples! Vamos em etapas:
