@@ -49,7 +49,7 @@ Antes de tudo, você deve saber rodar cada programa. Para isso, clique no ícone
 
 
 
-### Fim do README...
+### Obs:
 
 - Me siga no **Linkedin:** https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
