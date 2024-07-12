@@ -16,7 +16,7 @@ _Obs: O que for escrito no terminal será salvo no arquivo `output.txt`._
 
 ## Executando o cliente_udp
 
-1°) Abra um terminal e digite o seguinte comando: `nc -lvup 127.0.0.1 4466`.
+1°) Abra um terminal e digite o comando: `nc -lvup 127.0.0.1 4466`.
 
 2°) Execute o arquivo `cliente_udp`.
 
