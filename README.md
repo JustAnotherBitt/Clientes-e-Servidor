@@ -45,12 +45,3 @@ Antes de tudo, você deve saber rodar cada programa. Para isso, clique no ícone
 ![image](https://github.com/LeRodrigues2005/clientes-e-servidor/assets/97632543/248c64ef-89d5-4980-83ee-1ffe5db0c4da)
 
 - Será criado um arquivo chamado _output.txt_, que conterá o que foi inserido no ` client.send ` em ***cliente_tcp***. 
-
-
-
-
-### Obs:
-
-- Me siga no **Linkedin:** https://www.linkedin.com/in/letícia-rodrigues-a75134254/
-
-
