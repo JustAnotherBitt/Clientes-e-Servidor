@@ -4,17 +4,17 @@ Elas foram feitas em python, e uma biblioteca importante utilizada nos programas
 
 > _Observação: Um **soquete de rede** (em inglês: **network socket**) é um ponto final de um fluxo de comunicação entre processos através de uma rede, e um **endereço de soquete** (**socket address**) é a combinação de um endereço de IP e um número da porta._
 
-## Executando o servidor:
+## Executando o servidor
 
 1°) Execute o arquivo `servidor.py`.
 
-2°) Abra um terminal e digite o seguinte comando: `nc 127.0.0.1 4466`.
+2°) Abra um terminal e digite o comando `nc 127.0.0.1 4466`.
 
 ![image](https://github.com/LeRodrigues2005/clientes-e-servidor/assets/97632543/d315f88f-6ac4-4f08-8ea2-bef7594f1ec4)
 
 _Obs: O que for escrito no terminal será salvo no arquivo `output.txt`._
 
-## Executando o cliente_udp:
+## Executando o cliente_udp
 
 1°) Abra um terminal e digite o seguinte comando: `nc -lvup 127.0.0.1 4466`.
 
@@ -22,7 +22,7 @@ _Obs: O que for escrito no terminal será salvo no arquivo `output.txt`._
 
 ![image](https://github.com/LeRodrigues2005/clientes-e-servidor/assets/97632543/a89fa36e-04b5-4db9-850d-e34eca2bd077)
 
-## Executando o cliente_tcp no servidor:
+## Executando o cliente_tcp no servidor
 
 - O cliente TCP é uma aplicação que se conecta ao servidor TCP. Para fazer a conexão, siga os seguintes passos:
 
