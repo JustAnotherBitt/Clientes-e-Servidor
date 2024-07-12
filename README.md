@@ -1,4 +1,4 @@
-# Ferramentas simples de rede
+# Ferramentas de rede
 Aqui você encontra um trio: `cliente_udp`, `cliente_tcp` e `servidor` (esses dois últimos andam juntos). Essas são ferramentas simples e fáceis de usar e, como tudo no mundo da programação, podem ser melhoradas.
 Elas foram feitas em python, e uma biblioteca importante utilizada nos programas foi a biblioteca _socket_, que permitiu fazer as conexões entre cliente e servidor.
 
