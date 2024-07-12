@@ -24,7 +24,7 @@ _Obs: O que for escrito no terminal será salvo no arquivo `output.txt`._
 
 ## Executando o cliente_tcp no servidor
 
-- O cliente TCP é uma aplicação que se conecta ao servidor TCP. Para fazer a conexão, siga os seguintes passos:
+O cliente TCP é uma aplicação que se conecta ao servidor TCP. Para fazer a conexão, siga os seguintes passos:
 
 1°) Execute o arquivo `servidor`.
 
@@ -34,4 +34,4 @@ _Obs: O que for escrito no terminal será salvo no arquivo `output.txt`._
 
 ![image](https://github.com/LeRodrigues2005/clientes-e-servidor/assets/97632543/248c64ef-89d5-4980-83ee-1ffe5db0c4da)
 
-- Será criado um arquivo chamado `output.txt`, que conterá o que foi inserido no `client.send` em `cliente_tcp`. 
+Será criado um arquivo chamado `output.txt`, que conterá o que foi inserido no `client.send` em `cliente_tcp`. 
