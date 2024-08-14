@@ -4,6 +4,10 @@ Elas foram feitas em python, e uma biblioteca importante utilizada nos programas
 
 > _Observação: Um **soquete de rede** (em inglês: **network socket**) é um ponto final de um fluxo de comunicação entre processos através de uma rede, e um **endereço de soquete** (**socket address**) é a combinação de um endereço de IP e um número da porta._
 
+## Requisitos
+- **Python 3.x**: Certifique-se de ter o Python 3.x instalado em seu ambiente.
+- **IDE**: Para este projeto, eu usei o <a href="https://www.jetbrains.com/pycharm/download/?section=windows">PyCharm</a> (Edição Community).
+
 ## Executando o servidor
 
 1°) Execute o arquivo `servidor.py`.
